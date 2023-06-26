@@ -16,7 +16,7 @@ react-hot-toast for toast message
 
 #PAGE LOAD TIME 
 
-1 millisecond is the page load time can view in console
+1 millisecond is the page load time
 
 #HOW I MEASURED PAGE LOAD TIME
 
